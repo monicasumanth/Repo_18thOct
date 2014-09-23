@@ -1,2 +1,4 @@
 HI
 this is to demo Git commands
+
+fixed the bug
