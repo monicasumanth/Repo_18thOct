@@ -1,2 +1,5 @@
 HI
 this is to demo Git commands
+
+
+fixed high priority bug in branch b2

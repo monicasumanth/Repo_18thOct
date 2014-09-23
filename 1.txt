@@ -1,2 +1,4 @@
 Hi
 welcome to git tutorial
+
+fixed high priority bug in branch b2
