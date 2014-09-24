@@ -1,4 +1,10 @@
 HI
 this is to demo Git commands
 
+
 fixed the bug
+
+fixed high priority bug in branch b2
+
+demo of pull and push
+
