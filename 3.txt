@@ -3,3 +3,4 @@
 
 added new file in Git_Projects folder
 
+modified and fixed the bug
