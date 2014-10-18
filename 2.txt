@@ -8,3 +8,4 @@ fixed high priority bug in branch b2
 
 demo of pull and push
 
+modified in new_branch
